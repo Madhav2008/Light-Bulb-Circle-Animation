@@ -21,5 +21,5 @@ body {
 .box span {
     position: absolute;
     inset: 0;
-    background: rgba(red, green, blue, 2);
+    background: rgba(red, green, blue, 0.5);
 }
