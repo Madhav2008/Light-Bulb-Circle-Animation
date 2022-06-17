@@ -42,7 +42,7 @@ body {
         background: url(closeB.png);
     }
 
-    0% {
+    50% {
         background: url(closeB.png);
     }
 }
