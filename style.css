@@ -33,5 +33,5 @@ body {
     background: url(closeB.png);
     background-size: cover;
     background-position: center;
-    transform: translateX();
+    transform: translateX(-50%);
 }
