@@ -47,7 +47,7 @@ body {
     }
 
     50% {
-        background: url(openB.png);
+        background: url(closeB.png);
         background-size: cover;
     }
 }
