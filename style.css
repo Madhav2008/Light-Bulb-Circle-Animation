@@ -28,5 +28,6 @@ body {
 .box span::before {
     content: '';
     position: absolute;
-    left: 50%;width: ;
+    left: 50%;
+    width: ;
 }
