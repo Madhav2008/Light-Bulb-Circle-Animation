@@ -33,5 +33,6 @@ body {
     background: url(closeB.png);
     background-size: cover;
     background-position: center;
-    transform: translateX(-50%) translateY(-100px) scale(0.75);animation: ;
+    transform: translateX(-50%) translateY(-100px) scale(0.75);
+    animation: ;
 }
