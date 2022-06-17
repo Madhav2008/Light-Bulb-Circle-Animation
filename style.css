@@ -34,5 +34,5 @@ body {
     background-size: cover;
     background-position: center;
     transform: translateX(-50%) translateY(-100px) scale(0.75);
-    animation: ;
+    animation: animated;
 }
