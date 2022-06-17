@@ -31,7 +31,7 @@ body {
     width: 250px;
     height: 300px;
     background: url(closeB.png);
-    background-size: cover;
+    /* background-size: cover; */
     background-position: center;
     transform: translateX(-50%) translateY(-100px) scale(0.75);
     animation: animate 2s steps(1) infinite;
