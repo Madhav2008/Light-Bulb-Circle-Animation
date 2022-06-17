@@ -37,4 +37,4 @@ body {
     animation: animate 2s linear infinite;
 }
 
-@keyframes animate {}
+@keyframes animate {0%}
