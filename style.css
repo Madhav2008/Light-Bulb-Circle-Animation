@@ -42,7 +42,7 @@ body {
 
     0%,
     100% {
-        background: url(closeB.png);
+        background: url(openB.png);
         background-size: cover;
     }
 
