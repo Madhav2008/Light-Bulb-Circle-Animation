@@ -32,5 +32,6 @@ body {
     height: 300px;
     background: url(closeB.png);
     background-size: cover;
-    background-position: center;transform: ;
+    background-position: center;
+    transform: ;
 }
