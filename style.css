@@ -26,5 +26,6 @@ body {
 }
 
 .box span::before {
-    content: '';position: ;
+    content: '';
+    position: ;
 }
