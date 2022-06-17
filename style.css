@@ -34,7 +34,7 @@ body {
     background-size: cover;
     background-position: center;
     transform: translateX(-50%) translateY(-100px) scale(0.75);
-    animation: animate 2s linear infinite;
+    animation: animate 2s steps() infinite;
 }
 
 @keyframes animate {
