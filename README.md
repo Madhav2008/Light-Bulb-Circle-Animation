@@ -1,1 +1,1 @@
-# Light Bulb Circle
+# Light Bulb Circle Animation
