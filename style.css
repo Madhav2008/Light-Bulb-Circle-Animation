@@ -20,5 +20,6 @@ body {
 
 .box span {
     position: absolute;
-    inset: 0;background: ;
+    inset: 0;
+    background: ;
 }
