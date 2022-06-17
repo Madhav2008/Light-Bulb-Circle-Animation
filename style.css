@@ -18,4 +18,6 @@ body {
     height: 500px;
 }
 
-.box span {position: absolute;}
+.box span {
+    position: absolute;
+}
