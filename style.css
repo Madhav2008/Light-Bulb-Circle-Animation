@@ -39,6 +39,6 @@ body {
 
 @keyframes animate {
     0% {
-        background: url();
+        background: url(closeB.png);
     }
 }
