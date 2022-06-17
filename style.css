@@ -19,5 +19,5 @@ body {
 }
 
 .box span {
-    position: absolute;
+    position: absolute;inset: ;
 }
