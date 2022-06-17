@@ -25,4 +25,4 @@ body {
     transform: rotate(calc(45deg * var(--i)));
 }
 
-.box span::before {}
+.box span::before {content: ;}
